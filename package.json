@@ -40,7 +40,7 @@
     "vue-intl": "^2.1.1",
     "vue-meta": "^1.2.0",
     "vue-moment": "^4.0.0",
-    "vue-pouch": "^0.0.22",
+    "vue-pouch": "^0.0.23",
     "vue-qriously": "^1.1.1",
     "vue-router": "^3.0.1",
     "vue2-simplert": "^0.8.0",
